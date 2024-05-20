@@ -1,6 +1,9 @@
-### Hi there 👋
+### The Farris Lab
 
-My name is Katy Pannoni. 
+The Farris Lab is located at the Fralin Biomedical Research Institute on Virginia Tech Health Sciences and Technology Campus in Roanoke, Virginia. The lab focuses on understanding the molecular and cellular mechanisms underlying learning and how these processes are disrupted in neurodevelopmental disorders, such as autism spectrum disorder and schizophrenia.
+
+You can read more and meet the team on our website: 
+<link:https://labs.vtc.vt.edu/farris/>
 
 <!--
 **Farris-lab/Farris-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
